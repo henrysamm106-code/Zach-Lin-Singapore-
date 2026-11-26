@@ -1,0 +1,6 @@
+{
+  "name": "Zach Lin — Website Enhancement Preview",
+  "description": "Interactive mobile-first Guided Property Brief & Instant WhatsApp Prefill preview for Zach Lin (zachlin.co), prepared by Zavyo AI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
